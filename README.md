@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Django**
 
-- 👨‍💻 All of my projects are available at [https://pranay2331.github.io/pranaysunku/](https://pranay2331.github.io/pranaysunku/)
+- 👨‍💻 All of my projects are available at [https://pranay2331.github.io/pranaysunku/](https://pranay2331.github.io/sunkupranay/)
 
 - 💬 Ask me about **Data Analysis**
 
