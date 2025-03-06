@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **Data Analysis Projects**
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Cloud Computing**
 
 - 👨‍💻 All of my projects are available at [https://pranay2331.github.io/pranaysunku/](https://pranay2331.github.io/sunkupranay/)
 
