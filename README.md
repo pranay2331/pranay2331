@@ -6,13 +6,13 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXN4enBubzlxODRtaTVsa3k3Yzd5MGE0NWoyeHI1a2F4ZG5kNHZ0dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h5ibocZljichMEJcrl/giphy.gif"  />
 
-- 🔭 I’m currently working on **Data Analysis Projects**
+- 🔭 I’m currently working in **DAT Cloud Solutions**
 
-- 🌱 I’m currently learning **Cloud Computing**
+- 🌱 I’m currently learning **Devops & SAP**
 
 - 👨‍💻 All of my projects are available at [https://pranay2331.github.io/pranaysunku/](https://pranay2331.github.io/sunkupranay/)
 
-- 💬 Ask me about **Data Analysis**
+- 💬 Ask me about **Data Analysis, Integration & Backend Development**
 
 - 📫 How to reach me **sunkupranay01@gmail.com**
 
