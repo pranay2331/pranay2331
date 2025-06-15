@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working in **DAT Cloud Solutions**
 
-- 🌱 I’m currently learning **Devops & SAP**
+- 🌱 I’m currently learning **Devops & Cloud Integration**
 
 - 👨‍💻 All of my projects are available at [https://pranay2331.github.io/pranaysunku/](https://pranay2331.github.io/sunkupranay/)
 
@@ -45,6 +45,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo" height="30" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo" height="30" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="linkedin logo" height="30" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuredevops/azuredevops-original.svg" height="30" alt="devops logo" width="40" />
+  <img src="https://www.jenkins.io/images/logos/jenkins/jenkins.svg" height="30" alt="jenkins logo" width="40" />
+  <img src="https://www.snaplogic.com/wp-content/uploads/2019/03/snaplogic-og.png" height="30" alt="snaplogic logo" width="40" />
+  <img src="https://assets-global.website-files.com/61edb85e8f7ae9f9bdf9c3d0/61f845f3c6d92a8b5c9ac365_Celigo_Logo_RGB.svg" height="30" alt="celigo logo" width="40" />
 </div>
 
 <p align = "left"></p>
